@@ -4,5 +4,5 @@ tags={
 	"Graphics"
 }
 name="StarCraft Emblems"
-supported_version="2.6.*"
+supported_version="3.2.2"
 remote_file_id="2046947478"
